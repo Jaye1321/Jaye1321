@@ -89,4 +89,5 @@ What are you still doing here? It's time to go. Goodbye.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Seems like you've got me here... Well, it's your victory. Congratulations explorer! <br>
 Now... I'm hungry and I demand a guilty supper. If you are also hungry, go get yourself something to eat, at least rest with your stomach full.<br>
-It's a real goodbye... FOR NOW
+It's a real goodbye... FOR NOW <be>
+*poof* *vanish in the air*
