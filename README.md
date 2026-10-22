@@ -2,28 +2,7 @@
 #### Updated on: 12 Dec 2024 (GMT+8)
 
 ## About Me
-This is Jaye, a current year 12 student in Malaysia. Programming is just a hobby, and I'm not planning to develop my profession in programming anytime soon. <br>
-I'm a science stream student whose academic results are NOT good enough. My dream tertiary education is Pharmacy & Nutrition and/or Medicine at NUS (National University of Singapore) or NTU (Nanyang Technological University). <br>
-In the year 2025, I plan to focus more on my academic approach to enter my dream uni via UEC. This will definitely be a difficult path yet I've dedicated to sacrificing my personal life for it. <br>
-Besides academics, I'm not good at socializing as I've deleted almost all social media to prevent potential time waste (and I'm not confident enough to share myself online), and that consequently caused my disconnection with other social circles. Looking forward to changing the outcome, as I aim to have more and better connections with others. <br>
-I'm open to any chat with others as long as you are using the same language as mine. <br>
-Available contacts are stated in my profile. <br>
 
-## Motto
-Nothing is worthless, just seemed to be misplaced gems.
-<br>
-## Profile
-
-Name: Jaye1321 <br>
-Age: 17 <br>
-Profession: Student <br>
-Nationality: Malaysian <br>
-Chatting Language: English (Malaysian); Mandarin <br>
-Programming Language: C++ (Main); Python <br>
-Currently Learning: Javascript <br>
-Compiler: VSCode <br>
-Computer Device: MSI Bravo 7? (Win10) <br>
-Portable Devices: Oppo Reno 7; Ipad Air 5th gen <br>
 
 ## Past-Activities & Achievements (In terms of Programming-related Activities)
 ### 2023
